@@ -21,7 +21,7 @@ Per questo motivo, i risultati presentati nel notebook non vanno interpretati co
 ## Contenuto
 
 - *Confronto_metodi_discesa.ipynb*: Jupyter Notebook contenente il codice del progetto;
-- *Confronto_metodi_ottimizzazione.pptx*: presentazione PowerPoint utilizzata per presentare il progetto all'esame.
+- *Confronto_metodi_ottimizzazione.pdf*: presentazione PowerPoint convertita in pdf utilizzata per presentare il progetto all'esame.
 
 ## Una nota sul progetto
 
